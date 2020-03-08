@@ -1,1 +1,0 @@
-# Bilim ve Teknoloji Oyuncuları
