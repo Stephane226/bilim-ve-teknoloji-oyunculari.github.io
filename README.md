@@ -1,1 +1,1 @@
-# bilim-ve-teknoloji-oyunculari.github.io
+# Bilim ve Teknoloji Oyuncuları
