@@ -21,3 +21,4 @@ Use this form to contact us
 * Phone
 * Message
 * SEND
+* Your message has been sent.

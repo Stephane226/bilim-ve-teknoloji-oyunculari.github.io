@@ -21,3 +21,4 @@ Bize ulaşmak için bu iletişim formunu kullanabilirsiniz
 * Telefon
 * Mesaj
 * GÖNDER
+* Mesajınız gönderildi.
