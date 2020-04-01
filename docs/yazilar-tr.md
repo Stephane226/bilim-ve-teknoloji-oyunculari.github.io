@@ -1,7 +1,7 @@
 # Yazılar
 Sayfa içerisinde kullanılan yazılı içeriklerin geliştirildiği dosya.
 
-## Gişiş Ekranı
+## Giriş Ekranı
 MERHABA
 
 ## Hakkımızda
