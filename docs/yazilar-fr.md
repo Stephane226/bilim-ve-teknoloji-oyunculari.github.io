@@ -2,22 +2,23 @@
 Sayfa içerisinde kullanılan yazılı içeriklerin geliştirildiği dosya.
 
 ## Gişiş Ekranı
-MERHABA
+salut
 
-## Hakkımızda
+## A propos de nous
 
-### Biz Kimiz?
-Bilim ve Teknoloji Oyuncuları (BTO), 2015 yılında faaliyetlerine başlamış olan ATU Tiyatro Topluluğu bünyesinde faaliyet göstermekte. 2019 yılında Dr. Öğr. Üyesi Adem POLAT'ın kulübe Akademik Danışman olması ve Yönetmenliğe gelmesi ile oyunculuk eğitimleri başlamış ve BTO ilk yılında 'Kibarlık Budalası' oyununu sahnelemiştir.
+### Qui sommes nous
+Les acteurs de bilim ve teknoloji (la science et la technologie) (BTO) ont commencé leurs activités au sein du groupe de théâtre ATU, qui a commencé ses activités en 2015. En 2019, la formation d'acteur a commencé grace a la venue du Dr Adem POLAT personnel academique devenu conseiller académique du club théâtral et directeur, et BTO a mis en scène sa première pièce 'Kibarlık Budalası (le gentil duper)' en sa première année.
 
-Grotowski tarzı Yoksul Tiyatro metodunu benimsemiş olan BTO etkinliklerini gönüllü öğrencilerin katılımı ile sürdürmektedir. Her öğretim yılının başında oyunculuk eğitimine alımlar yapılır. Katılım sağlamak isteyen öğrenciler her yeni öğretim yılının başında yapılan duyuru ile alım sürecinde katılım sağlayabilir.
+Ayant adopté une méthode théâtrale pauvre de style de Grotowski, le BTO poursuit ses activités avec la participation d'étudiants volontaires. Au début de chaque année académique, nous effectuons des nouveaux enregistrements pour la formation d'acteur. Les étudiants qui souhaitent s’y intégrer peuvent participer au processus de recrutement après l'annonce faite au début de chaque nouvelle année académique.
 
-### Yoksul Tiyatro Nedir?
-Jerzy Grotowski tarafından geliştirilen Yoksul Tiyatro metodu, oyuncunun sahnedeki diğer tüm unsurlardan yoksun, mesajı seyirciye oyunculuk ile verebilmeyi hedefler. Bu süreçte alınan oyunculuk eğitimlerinde kişinin zihinsel ve bedensel sınırlarını geliştirme ve kendini keşfetme imkanı sağlanır. Öz disiplin, özgüven, ekip bilinci, alternatif açılardan gözlem yapabilme gibi niteliklerinin de geliştiği eğitimlerimiz kulüp bünyesinde yıl içerisinde tüm gönüllü oyunculuk adaylarımıza Yönetmenimiz Dr. Öğr. Adem POLAT tarafından verilmektedir.
+### Qu'est-ce que le théâtre de la pauvreté?
+La méthode de Theatre de pauvre, développée par Jerzy Grotowski, vise à transmettre un message au public avec un jeu d'acteur. Dans les formations d'acteur suivies dans ce processus offrent l'opportunité de développer les capacitées mentales et physiques de la personne et de se découvrir. Nos formations, dans lesquelles l'autodiscipline, la confiance en soi, l’esprit d'équipe et l'observation des perspectives alternatives sont développées au profit de tous nos candidats tout au long de l'année par notre directeur Dr Adem POLAT.
 
-## Bize Ulaşın
-Bize ulaşmak için bu iletişim formunu kullanabilirsiniz
-* İsim Soyisim
-* E-Posta
-* Telefon
-* Mesaj
-* GÖNDER
+## Contactez-Nous
+Veuillez remplir ce formulaire pour nous contacter.
+* Nom prenom
+* E-mail
+* Telephone
+* Message   
+* ENVOYER
+
