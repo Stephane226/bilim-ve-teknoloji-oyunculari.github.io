@@ -21,4 +21,5 @@ Veuillez remplir ce formulaire pour nous contacter.
 * Telephone
 * Message   
 * ENVOYER
+* Votre message a été envoyé.
 
