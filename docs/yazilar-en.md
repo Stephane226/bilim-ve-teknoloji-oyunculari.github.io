@@ -12,7 +12,7 @@ Science and Technology Actors (BTO) operate  within the ATU Theater Group, which
 BTO, which has adopted the Grotowski style of Poor Theater mood, continues its activities with the participation of volunteer students. At the beginning of each academic year, students recruitment are made for acting education. Students who want to participate can join the recruitment process with the announcement made at the beginning of each new academic year. 
 
 ### What is "Poor Theatre"?
-Jerzy Grotowski has developed the method of poor theatre, which isolates itself from the excess elements of the stage and aims to give the message to the audience by pure acting itself. On the other hand, taken acting training provides an opportunity to push one's mental and physical borders and to discover oneself. Moreover, training developing features such as self-discipline, self-confidence, team awareness, and alternative perspectives has been given to nominee actors within the club by director Dr. lecturer Adem Polat in the year.
+The Poor Theater method, developed by Jerzy Grotowski, aims to give the message to the audience by acting, lacking all other elements of the actor. In the acting education process, the opportunity of developing the mental and physical limits of the person and discovering himself is provided. Self-discipline, self-confidence, team awareness, and observation from alternative perspectives are developed in the actor courses. The actor courses are given to all of our volunteer acting candidates throughout the year by our director, Dr. Adem POLAT.
 
 ## Contact Us 
 Use this form to contact us
